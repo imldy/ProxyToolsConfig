@@ -477,7 +477,6 @@ proxy-groups:
     proxies:
       - Proxy
       - Auto
-      - 'Emby 500Mbps 0.2X'
   -
     name: Auto
     type: url-test
