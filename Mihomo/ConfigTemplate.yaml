@@ -484,7 +484,7 @@ proxy-groups:
     icon: 'https://testingcf.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Auto.png'
     url: 'https://www.gstatic.com/generate_204'
     interval: '1800'
-    proxies:
+    proxies: []
 
 rules:
   - 'AND,((DST-PORT,443),(NETWORK,UDP)),REJECT'
